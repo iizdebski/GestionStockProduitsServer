@@ -9,6 +9,16 @@
 * **Chart.js**
 * **Spring Security (Admin/User, Login/Logout)**
 
+Username: admin
+Password: password2
+
+Username: user
+Password: password1
+
+Username: user4
+Password: password4
+
+
 <p align = "center">
 <img src="https://github.com/iizdebski/GestionStockProduitsServer/blob/main/images/gestion1.JPG">
 </p>
