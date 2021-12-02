@@ -1,5 +1,13 @@
-# Stock Management
+# Stock Management System
 
+## ***Technologies used:***
+
+* **Java 8**
+* **Spring Boot 2**
+* **Angular 5**
+* **MySQL**
+* **Chart.js**
+* **Spring Security (Admin/User, Login/Logout)**
 
 <p align = "center">
 <img src="https://github.com/iizdebski/GestionStockProduitsServer/blob/main/images/gestion1.JPG">
